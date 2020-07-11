@@ -1,2 +1,5 @@
-# Sales-Competitor-Analysis
-Forecasting volume of sales for Constellation Brands in Iowa and Competitor Analysis
+# Forecasting volume of sales for Constellation Brands in Iowa and Competitor Analysis
+<p>Domain: Marketing and Retail Analytics</p>
+<p>Skills: Neural Networks, R, Time Series Analysis, Data Visualization, Exploratory Data Analysis</p>
+<p>Description: <li>The project involves forecasting sales by volumes of Constellation Brands and its products in the counties of Iowa, USA. The aim of the project is to analyse how Constellation Brands is doing when compared to its competitors and provide a high level recommendation on the counties and category of alcohol it must target to sell better than its competitor. The analysis is conducted using basic forecasting techniques and advanced techniques like ARIMA & LSTM. Tableau has been used for visualization.</li>
+<li>We observed, Diageo’s major selling category is Spiced Rum, Sazerac's from Whiskey Liqueur and Luxco’s from Vodkas.On a high level, we can infer that the companies are specialising in different types of alcohol category and capturing the market in that segment.For Constellation to improve its sales, it has to venture into other alcohol categories apart from Canadian Whiskey and increase its sales in Vodka to tap into market of Luxco and also to penetrate Brandies market of Diageo.</li></p>
